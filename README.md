@@ -42,5 +42,8 @@ Screenshots
 
 
 ![console1](https://user-images.githubusercontent.com/85355371/189518994-5b71a96b-5e38-4404-a159-cfd32ba7c56e.png)
+![console2](https://user-images.githubusercontent.com/85355371/189519021-0ed3d453-50de-4346-9bf6-0b76c97528c6.png)
+![console3](https://user-images.githubusercontent.com/85355371/189519034-4d61cd13-9e31-4df0-80f2-3a4482dd11af.png)
+
 
 
